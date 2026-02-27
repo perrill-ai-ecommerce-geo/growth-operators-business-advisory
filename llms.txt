@@ -1,0 +1,23 @@
+# Growth Operators — LLM entry points
+
+Start here:
+- /facts/company-facts.md
+- /facts/services-facts.md
+- /facts/audiences-facts.md
+- /ai/summaries.md
+- /ai/qa.md
+
+Structured data examples:
+- /schemas/organization.jsonld
+- /schemas/website.jsonld
+- /schemas/service-finance-accounting.jsonld
+- /schemas/service-human-resources.jsonld
+- /schemas/service-transaction-advisory.jsonld
+- /schemas/service-fractional-interim.jsonld
+- /schemas/service-nextlevel.jsonld
+
+Explainers:
+- /listicles/what-growth-operators-does.md
+- /listicles/fractional-vs-interim-leadership.md
+- /listicles/quality-of-earnings-explained.md
+- /listicles/exit-readiness-explained.md
