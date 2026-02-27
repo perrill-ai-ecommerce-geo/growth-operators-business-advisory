@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://growthoperators.com/#website",
+  "url": "https://growthoperators.com/",
+  "name": "Growth Operators",
+  "publisher": {
+    "@id": "https://growthoperators.com/#organization"
+  }
+}
