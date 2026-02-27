@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-transaction-advisory-exit-planning",
+  "name": "Transaction Advisory & Exit Planning",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "serviceType": "Transaction advisory and exit planning",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "description": "Exit strategy advisory, IPO readiness support, and transaction-related support for pre-acquisition, post-acquisition, and pre-sale phases."
+}
