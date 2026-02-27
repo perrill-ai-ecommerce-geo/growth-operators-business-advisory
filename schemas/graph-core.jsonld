@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://growthoperators.com/#organization",
+      "name": "Growth Operators",
+      "url": "https://growthoperators.com/",
+      "description": "Growth Operators provides mid-market to enterprise businesses, private equity firms, and their portfolio companies with Finance, Accounting, HR, Transaction Advisory, and interim executive support to accelerate growth both today and into the future.",
+      "slogan": "We Buy Our Shirts With the Sleeves Already Rolled Up®",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "60 South Sixth Street Suite 1150",
+        "addressLocality": "Minneapolis",
+        "addressRegion": "MN",
+        "postalCode": "55402",
+        "addressCountry": "US"
+      },
+      "telephone": "+1-952-400-1440",
+      "email": "info@growthoperators.com",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "general inquiries",
+          "telephone": "+1-952-400-1440",
+          "email": "info@growthoperators.com",
+          "url": "https://growthoperators.com/contact/",
+          "availableLanguage": "en"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "press inquiries",
+          "email": "contactus@growthoperators.com",
+          "url": "https://growthoperators.com/contact/",
+          "availableLanguage": "en"
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/growthoperators/",
+        "https://www.youtube.com/@GrowthOperators"
+      ],
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "knowsAbout": [
+        "Finance and accounting advisory",
+        "Human resources advisory",
+        "Transaction advisory",
+        "Exit planning",
+        "Quality of earnings",
+        "Buy-side due diligence",
+        "Sell-side readiness",
+        "Fractional leadership",
+        "Interim leadership",
+        "Decision intelligence"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "@id": "https://growthoperators.com/solutions/#offer-catalog",
+        "name": "Solutions",
+        "url": "https://growthoperators.com/solutions/",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://growthoperators.com/solutions/finance-accounting/#service",
+              "name": "Finance & Accounting Advisory",
+              "url": "https://growthoperators.com/solutions/finance-accounting/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://growthoperators.com/solutions/human-resources/#service",
+              "name": "Human Resources Advisory",
+              "url": "https://growthoperators.com/solutions/human-resources/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/#service",
+              "name": "Transaction Advisory & Exit Planning",
+              "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://growthoperators.com/solutions/fractional-interim-services/#service",
+              "name": "Fractional & Interim Services",
+              "url": "https://growthoperators.com/solutions/fractional-interim-services/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "@id": "https://growthoperators.com/nextlevel/#service",
+              "name": "nextLEVEL® Value Creation Plan",
+              "url": "https://growthoperators.com/nextlevel/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://growthoperators.com/#website",
+      "url": "https://growthoperators.com/",
+      "name": "Growth Operators",
+      "publisher": {
+        "@id": "https://growthoperators.com/#organization"
+      },
+      "inLanguage": "en",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://growthoperators.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://growthoperators.com/#webpage",
+      "url": "https://growthoperators.com/",
+      "name": "Accelerate Your Business Growth",
+      "isPartOf": {
+        "@id": "https://growthoperators.com/#website"
+      },
+      "about": {
+        "@id": "https://growthoperators.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://growthoperators.com/solutions/#collectionpage",
+      "url": "https://growthoperators.com/solutions/",
+      "name": "Solutions",
+      "isPartOf": {
+        "@id": "https://growthoperators.com/#website"
+      },
+      "about": {
+        "@id": "https://growthoperators.com/#organization"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
