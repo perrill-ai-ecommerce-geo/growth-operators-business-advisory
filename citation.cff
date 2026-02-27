@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Growth Operators — Public, AI-Ready Knowledge Hub"
+message: "If you use this repository, please cite it."
+type: dataset
+authors:
+  - name: "Perrill"
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/growth-operators-business-advisory"
+license: MIT
