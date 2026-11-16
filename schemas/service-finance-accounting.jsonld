@@ -1,0 +1,133 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-finance-accounting-advisory",
+  "name": "Finance & Accounting Advisory",
+  "alternateName": [
+    "Finance and Accounting Advisory Services",
+    "Financial Advisory Services",
+    "Accounting Advisory Services",
+    "Finance Transformation Services",
+    "Outsourced Accounting Services"
+  ],
+  "url": "https://growthoperators.com/solutions/finance-accounting/",
+  "serviceType": [
+    "Finance & Accounting Advisory",
+    "Accounting Advisory",
+    "Finance Transformation",
+    "Financial Planning & Analysis",
+    "Outsourced Accounting Services",
+    "Financial Reporting & Audit Readiness",
+    "Cash Flow & Working Capital Optimization"
+  ],
+  "description": "Growth Operators provides hands-on finance and accounting advisory services for middle-market companies, private equity firms, portfolio companies, and privately owned businesses. Services include accounting advisory, outsourced accounting support, audit readiness, financial statement preparation, month-end close acceleration, financial planning and analysis (FP&A), budgeting, forecasting, cash flow management, liquidity enhancement, revenue cycle optimization, cost optimization, internal controls, financial reporting, and finance transformation. Experienced CFO-level operators help organizations strengthen financial infrastructure, improve decision-making, prepare for transactions, and create long-term enterprise value.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Chief Financial Officers and Finance Leaders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "M&A Intermediaries and Investment Banks"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Preparing for Acquisitions, Business Sales, or IPOs"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Finance & Accounting Advisory Services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Accounting Advisory & Process Optimization",
+        "description": "Hands-on accounting advisory services focused on improving financial accuracy, streamlining accounting processes, strengthening internal controls, enhancing compliance, and optimizing accounting systems and workflows."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Audit Readiness & Financial Statement Preparation",
+        "description": "Audit preparation, financial statement readiness, reconciliations, documentation, internal control assessments, and support for financial reporting requirements."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Financial Close Process Acceleration",
+        "description": "Month-end close optimization, financial reconciliation improvements, accounting workflow standardization, error reduction, and financial reporting process improvements."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "FP&A, Budgeting & Forecasting Optimization",
+        "description": "Financial planning and analysis, budgeting, rolling forecasts, scenario modeling, financial models, operational KPI integration, and data-driven financial performance analysis."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Management, Board & Stakeholder Reporting Enhancement",
+        "description": "Management reporting, board reporting, executive financial dashboards, private equity sponsor reporting, financial performance measurement, and stakeholder reporting improvements."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Liquidity Enhancement & Cash Flow Management",
+        "description": "Cash flow forecasting, working capital optimization, liquidity planning, cash management processes, and financial controls to support sustainable liquidity and business growth."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Revenue Cycle Management Optimization",
+        "description": "Revenue cycle process improvement, accounts receivable management, payment collection optimization, billing process improvements, and strategies to reduce payment delays and disputes."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Cost Optimization & Profitability Improvement",
+        "description": "Expense analysis, cost reduction initiatives, vendor optimization, operational efficiency improvements, financial process redesign, and profitability enhancement."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Private Equity Operating Partner Services",
+        "url": "https://growthoperators.com/solutions/strategy-execution-advisory/operating-partner-expertise/",
+        "description": "Embedded financial and operational support for private equity sponsors and portfolio companies, including finance transformation, financial reporting improvements, value creation planning, and operational execution."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Decision Intelligence & AI for Finance",
+        "url": "https://growthoperators.com/solutions/decision-intelligence-ai-advisory/",
+        "description": "Financial performance dashboards, predictive analytics, financial data analysis, AI readiness assessments, decision intelligence, and data-driven insights to support executive decision-making."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Fractional & Interim Finance & Accounting Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-finance-accounting/",
+        "description": "Fractional and interim CFOs, controllers, and experienced finance and accounting professionals providing embedded financial leadership, accounting operations support, reporting oversight, and finance transformation execution."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "nextLEVEL® Finance Transformation",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Proprietary finance transformation assessment and value creation framework that benchmarks organizational capabilities against best practices, identifies operational gaps, and develops prioritized recommendations and actionable improvement roadmaps."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/finance-accounting/#webpage"
+  }
+}
+</script>
