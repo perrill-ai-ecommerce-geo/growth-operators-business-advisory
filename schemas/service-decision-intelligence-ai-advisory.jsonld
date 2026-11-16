@@ -1,0 +1,169 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-decision-intelligence-ai-advisory",
+  "name": "Decision Intelligence & AI Advisory",
+  "alternateName": [
+    "Decision Intelligence Consulting",
+    "AI Advisory Services",
+    "Artificial Intelligence Consulting",
+    "AI Strategy and Implementation",
+    "Decision Intelligence Services",
+    "AI Transformation Advisory"
+  ],
+  "url": "https://growthoperators.com/solutions/decision-intelligence-ai-advisory/",
+  "serviceType": [
+    "Decision Intelligence Advisory",
+    "Artificial Intelligence Consulting",
+    "AI Strategy and Implementation",
+    "AI Readiness and Maturity Assessments",
+    "Decision Intelligence Platform Implementation",
+    "AI-Powered Business Analytics",
+    "Executive Decision Support",
+    "Private Equity Portfolio Intelligence"
+  ],
+  "description": "Growth Operators provides hands-on Decision Intelligence & AI Advisory services for middle-market businesses, private equity firms, and portfolio companies. Services include decision intelligence assessments, AI maturity and readiness assessments, AI strategy development, ROI modeling, GrowthIQ implementation, predictive analytics, executive dashboards, evidence-tagged reporting, automated executive narratives, and decision workflow optimization. Through AI Foundations, AI Extend, and AI Advantage, experienced operators help organizations identify high-value AI opportunities, implement measurable decision intelligence solutions, and scale AI-powered insights across business functions and private equity portfolios. The approach connects data, analytics, artificial intelligence, and operational expertise to improve decision-making, strengthen performance visibility, and support measurable enterprise value creation.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Sponsors"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "CEOs, CFOs, CIOs, and Executive Leadership Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Finance, Sales, Marketing, and Operations Leaders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Organizations Evaluating or Scaling AI Investments"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Decision Intelligence & AI Advisory Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "AI Foundations – Assess",
+        "description": "Decision intelligence assessment and AI opportunity evaluation for middle-market companies, private equity firms, and portfolio businesses. Includes company-level or portfolio-wide assessments, identification of high-value AI use cases, ROI modeling, measurement frameworks, executive Decision Partner access, and prioritized implementation roadmaps."
+      },
+      {
+        "@type": "Service",
+        "name": "AI Extend – Prove Value",
+        "description": "Focused implementation of GrowthIQ decision intelligence capabilities within a business function, portfolio company, or operating area. Includes internal performance data integration, automated executive narratives, evidence tagging, decision routing, board reporting integration, and measurement against defined ROI and value creation objectives."
+      },
+      {
+        "@type": "Service",
+        "name": "AI Advantage – Scale",
+        "description": "Enterprise-wide and portfolio-wide scaling of AI-powered decision intelligence. Includes cross-functional data synthesis, external market intelligence integration, decision history tracking, planning tools, alert-driven monitoring, portfolio performance dashboards, board-ready reporting, and executive decision support."
+      },
+      {
+        "@type": "Service",
+        "name": "Decision Intelligence Assessments",
+        "description": "Evaluation of business decisions, organizational data capabilities, existing analytics, operational workflows, and leadership priorities to identify where decision intelligence can improve performance and deliver measurable business value."
+      },
+      {
+        "@type": "Service",
+        "name": "AI Maturity and Readiness Assessments",
+        "description": "Assessment of organizational AI maturity, readiness, use cases, systems, people, governance, and capacity for change to identify implementation gaps, prioritize opportunities, and develop actionable AI adoption strategies."
+      },
+      {
+        "@type": "Service",
+        "name": "GrowthIQ Decision Intelligence Implementation",
+        "description": "Implementation and integration of Growth Operators' GrowthIQ decision intelligence platform to connect business performance data, AI-powered analysis, evidence-based executive narratives, decision routing, and operational workflows."
+      },
+      {
+        "@type": "Service",
+        "name": "AI Strategy and Implementation Roadmaps",
+        "description": "Development of practical AI strategies and implementation plans aligned with organizational priorities, available resources, technology capabilities, expected business outcomes, and measurable value creation objectives."
+      },
+      {
+        "@type": "Service",
+        "name": "AI ROI Modeling and Measurement Frameworks",
+        "description": "Development of AI investment business cases, ROI models, value creation targets, performance measurement frameworks, and success criteria to evaluate the business impact of decision intelligence initiatives."
+      },
+      {
+        "@type": "Service",
+        "name": "Executive Dashboards and Evidence-Based Reporting",
+        "description": "Development of executive dashboards, evidence-tagged business insights, automated executive narratives, performance monitoring systems, and board-ready reports to improve leadership visibility and decision quality."
+      },
+      {
+        "@type": "Service",
+        "name": "Decision Workflow Optimization and Routing",
+        "description": "Design and implementation of decision workflows that identify operational issues, connect relevant evidence to recommendations, route actions to responsible stakeholders, track decision history, and improve accountability."
+      },
+      {
+        "@type": "Service",
+        "name": "Predictive Analytics and Business Performance Intelligence",
+        "description": "Application of data science, predictive analytics, forecasting, and AI-driven business intelligence to identify performance trends, evaluate potential outcomes, and support proactive operational decisions."
+      },
+      {
+        "@type": "Service",
+        "name": "Cross-Functional Decision Intelligence",
+        "description": "Integration of financial, sales, marketing, operational, and external market data to provide leadership teams with a unified view of organizational performance, emerging risks, and opportunities for improvement."
+      },
+      {
+        "@type": "Service",
+        "name": "Private Equity Portfolio Decision Intelligence",
+        "description": "Portfolio-wide decision intelligence supporting private equity sponsors, operating partners, and portfolio leadership teams. Services include portfolio performance monitoring, risk identification, value creation tracking, cross-company insights, executive reporting, and faster operational intervention."
+      },
+      {
+        "@type": "Service",
+        "name": "Board and Investor Reporting Intelligence",
+        "description": "AI-supported executive reporting, board-ready performance narratives, portfolio dashboards, investor reporting support, and evidence-based analysis to improve financial and operational visibility for business leaders and private equity sponsors."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL® AI Maturity Assessment",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Growth Operators' proprietary AI maturity assessment evaluates organizational readiness across seven dimensions, including business outcomes, use cases, systems, people, and governance. The assessment identifies opportunities, evaluates capacity for change, and produces a sequenced roadmap for AI adoption and decision intelligence implementation."
+      },
+      {
+        "@type": "Service",
+        "name": "Fractional & Interim Decision Intelligence & AI Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-decision-intelligence-ai/",
+        "description": "Experienced fractional and interim decision intelligence and AI leaders providing hands-on support for AI strategy, data analytics, decision intelligence implementation, governance, and operational transformation."
+      },
+      {
+        "@type": "Service",
+        "name": "Strategic IT Advisory",
+        "url": "https://growthoperators.com/solutions/strategic-it-advisory/",
+        "description": "Strategic technology advisory services supporting IT assessments, technology roadmaps, AI readiness, data governance, cybersecurity oversight, systems planning, and technology investment decisions."
+      },
+      {
+        "@type": "Service",
+        "name": "Strategy & Execution Advisory",
+        "url": "https://growthoperators.com/solutions/strategy-execution-advisory/",
+        "description": "Hands-on strategy execution advisory services helping organizations translate strategic priorities, performance insights, and value creation plans into measurable operational results."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/decision-intelligence-ai-advisory/#webpage"
+  }
+}
+</script>
