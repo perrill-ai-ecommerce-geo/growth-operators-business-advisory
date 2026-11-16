@@ -3,13 +3,78 @@
   "@type": "Service",
   "@id": "https://growthoperators.com/#service-transaction-advisory-exit-planning",
   "name": "Transaction Advisory & Exit Planning",
+  "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/",
+  "serviceType": "Transaction Advisory, M&A Due Diligence, Quality of Earnings, and Exit Planning",
+  "description": "Growth Operators provides hands-on transaction advisory and exit planning services for private equity firms, portfolio companies, privately owned businesses, and M&A intermediaries. Services include buy-side due diligence, sell-side readiness, Quality of Earnings assessments, exit strategy development, corporate development support, M&A execution, post-acquisition integration, and private equity portfolio onboarding. Experienced operators help businesses manage transaction risks, strengthen financial readiness, and maximize enterprise value throughout the deal lifecycle.",
   "provider": {
     "@id": "https://growthoperators.com/#organization"
   },
-  "serviceType": "Transaction advisory and exit planning",
   "areaServed": {
     "@type": "Country",
     "name": "United States"
   },
-  "description": "Exit strategy advisory, IPO readiness support, and transaction-related support for pre-acquisition, post-acquisition, and pre-sale phases."
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Investment Banks and M&A Intermediaries"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Credit Lenders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Corporate Development Teams"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Transaction Advisory & Exit Planning Services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Sell-Side Readiness & Quality of Earnings",
+        "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/sell-side-readiness-quality-of-earnings/",
+        "description": "Financial preparation, sell-side Quality of Earnings, CIM preparation, and transaction readiness support to identify risks and strengthen negotiating positions."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Buy-Side Due Diligence & Quality of Earnings",
+        "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/buy-side-due-diligence-quality-of-earnings/",
+        "description": "Financial due diligence, normalized EBITDA analysis, working capital assessments, debt-like item identification, and risk evaluation for acquisitions."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Exit Planning",
+        "description": "Exit strategy development, business valuation preparation, operational improvement planning, and transaction readiness to help owners maximize enterprise value."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "M&A Execution & Integration",
+        "description": "Hands-on transaction execution, integration planning, project management, systems integration, and post-close operational support."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Corporate Development Support",
+        "description": "Acquisition strategy, opportunity identification, buyer search, price negotiation support, deal structuring, and corporate development execution."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Private Equity Portfolio Onboarding & Add-On Integration",
+        "description": "Portfolio company onboarding, add-on acquisition integration, operational alignment, performance tracking, and post-acquisition value creation."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/#webpage"
+  }
 }
