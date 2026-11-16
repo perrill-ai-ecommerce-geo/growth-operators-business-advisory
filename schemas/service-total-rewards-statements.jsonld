@@ -1,0 +1,138 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-total-rewards-statements",
+  "name": "Total Rewards Statements",
+  "alternateName": [
+    "Total Rewards Statement Services",
+    "Employee Total Compensation Statements",
+    "Employee Benefits Statements",
+    "Total Compensation Statements",
+    "Total Rewards Communication Services",
+    "TRS Design and Implementation"
+  ],
+  "url": "https://growthoperators.com/solutions/human-resources/total-rewards-statements/",
+  "serviceType": [
+    "Total Rewards Statement Design and Implementation",
+    "Total Rewards Strategy",
+    "Employee Compensation and Benefits Communication",
+    "Employee Benefits Statements",
+    "Compensation Transparency",
+    "Employee Engagement and Retention Advisory",
+    "HR Advisory Services"
+  ],
+  "description": "Growth Operators provides Total Rewards Statement (TRS) design, development, and implementation services for middle-market businesses, private equity-backed companies, and privately owned organizations. Led by experienced HR and CHRO-level professionals, the service helps employers communicate the full value of employee compensation, including salaries, bonuses, incentives, retirement contributions, health insurance, paid time off, and equity benefits. Services include personalized statement design, compensation and benefits data collection and validation, automated data visualization, HRIS and payroll integration, and statement preparation for employee distribution. Growth Operators helps companies improve compensation transparency, strengthen employee engagement and retention, and align Total Rewards communication with broader HR strategies.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Chief Human Resources Officers and HR Leaders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Compensation and Benefits Leaders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Seeking to Improve Employee Engagement and Retention"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Total Rewards Statements and Compensation Communication Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Personalized Total Rewards Statement Design",
+        "description": "Design of branded, employee-specific Total Rewards Statements that clearly communicate the value of salary, bonuses, incentives, benefits, retirement contributions, paid time off, and other employer-provided rewards."
+      },
+      {
+        "@type": "Service",
+        "name": "Compensation and Benefits Data Collection and Validation",
+        "description": "Collection, organization, and validation of employee compensation, benefits, retirement, and incentive data to support accurate and consistent Total Rewards Statement development."
+      },
+      {
+        "@type": "Service",
+        "name": "Automated Total Rewards Data Visualization",
+        "description": "Use of proprietary tools to generate structured, easy-to-understand Total Rewards Statements that visually present employee compensation, benefits, incentives, and employer contributions."
+      },
+      {
+        "@type": "Service",
+        "name": "Total Rewards Statement Delivery and Distribution Preparation",
+        "description": "Final review, validation, and preparation of personalized Total Rewards Statements for distribution to employees, including support for consistent communication and recurring updates."
+      },
+      {
+        "@type": "Service",
+        "name": "Total Rewards Strategy and Compensation Advisory",
+        "description": "Assessment and improvement of Total Rewards strategies, compensation structures, employee benefits programs, incentive plans, executive compensation, and equity-based rewards."
+      },
+      {
+        "@type": "Service",
+        "name": "Compensation and Benefits Benchmarking",
+        "description": "Evaluation of compensation and benefits programs against relevant market benchmarks to help employers identify gaps, improve competitiveness, and align Total Rewards strategies with organizational objectives."
+      },
+      {
+        "@type": "Service",
+        "name": "Employee Compensation Transparency and Communication",
+        "description": "Development of clear communication strategies that help employees understand the full value of their compensation and benefits packages, supporting trust, transparency, and employee satisfaction."
+      },
+      {
+        "@type": "Service",
+        "name": "Employee Engagement and Retention Support",
+        "description": "Integration of Total Rewards Statements into broader employee engagement, recognition, and retention strategies to help organizations communicate their investment in employees."
+      },
+      {
+        "@type": "Service",
+        "name": "HRIS and Payroll Systems Integration",
+        "description": "Alignment of Total Rewards Statement processes with human resources information systems, payroll platforms, and compensation data sources to streamline statement development and recurring updates."
+      },
+      {
+        "@type": "Service",
+        "name": "Total Rewards Analytics and Strategic Insights",
+        "description": "Analysis of compensation and benefits information to help HR leaders evaluate program effectiveness, understand employer reward investments, and make informed decisions about Total Rewards strategies."
+      },
+      {
+        "@type": "Service",
+        "name": "Human Resources Advisory",
+        "url": "https://growthoperators.com/solutions/human-resources/",
+        "description": "Broader HR advisory and transformation services, including compensation and benefits strategy, organizational effectiveness, employee engagement, workforce planning, HR technology, and talent management."
+      },
+      {
+        "@type": "Service",
+        "name": "Fractional and Interim Human Resources Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-human-resources/",
+        "description": "Experienced fractional and interim CHROs and HR leaders providing hands-on support for compensation strategy, employee benefits, HR transformation, workforce planning, and Total Rewards initiatives."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL® HR Transformation",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Growth Operators' proprietary assessment and transformation framework, helping organizations evaluate HR capabilities, identify improvement opportunities, and implement compensation, benefits, and workforce management initiatives."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/human-resources/total-rewards-statements/#webpage"
+  }
+}
+</script>
