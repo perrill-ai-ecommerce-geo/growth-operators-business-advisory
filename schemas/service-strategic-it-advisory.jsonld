@@ -1,0 +1,133 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-strategic-it-advisory",
+  "name": "Strategic IT Advisory",
+  "alternateName": [
+    "Strategic IT Advisory Services",
+    "IT Strategy Consulting",
+    "IT Advisory Services",
+    "Technology Strategy Advisory",
+    "IT Transformation Advisory",
+    "IT Assessment Services"
+  ],
+  "url": "https://growthoperators.com/solutions/strategic-it-advisory/",
+  "serviceType": [
+    "Strategic IT Advisory",
+    "IT Assessments and Technology Roadmaps",
+    "Independent IT Oversight",
+    "IT Cost and Vendor Optimization",
+    "Fractional CIO Services",
+    "Cybersecurity and IT Risk Advisory",
+    "AI Readiness and Data Governance",
+    "M&A Technology Due Diligence"
+  ],
+  "description": "Growth Operators provides operator-led Strategic IT Advisory services for middle-market businesses, private equity firms, portfolio companies, and privately owned organizations. Services include comprehensive IT assessments, IT strategy and technology roadmaps, independent IT oversight, ERP and technology initiative guidance, IT cost and vendor optimization, managed service provider evaluations, fractional CIO leadership, cybersecurity risk assessments, AI readiness, data governance, and M&A technology due diligence. Experienced former CIOs and technology executives help leadership teams reduce IT risk, eliminate unnecessary spending, modernize systems, improve operational performance, and align technology investments with business growth and enterprise value creation.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "CEOs, CFOs, CIOs, and Executive Leadership Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Preparing for Investment, Acquisition, or Exit"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Organizations Modernizing Enterprise Systems"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Strategic IT Advisory Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Comprehensive IT Assessments",
+        "description": "End-to-end IT assessments evaluating technology infrastructure, enterprise systems, governance, IT staffing, cybersecurity, data controls, and technology readiness. Findings inform prioritized IT roadmaps aligned with business goals, risk reduction, and value creation."
+      },
+      {
+        "@type": "Service",
+        "name": "Independent IT Oversight & Advisory",
+        "description": "Independent technology advisory services supporting IT strategy, major systems initiatives, ERP projects, vendor selection, cybersecurity oversight, and technology investment prioritization. Experienced IT operators provide objective guidance to help leadership teams manage risks and make informed technology decisions."
+      },
+      {
+        "@type": "Service",
+        "name": "IT Cost & Vendor Optimization",
+        "description": "Evaluation of IT spending, managed service provider (MSP) performance, vendor contracts, service-level agreements, and technology operating costs. Services identify unnecessary spending, improve vendor accountability, and align IT investments with organizational priorities."
+      },
+      {
+        "@type": "Service",
+        "name": "Fractional CIO & Leadership Support",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-strategic-it/",
+        "description": "Fractional and interim CIO leadership providing executive-level IT strategy, technology governance, roadmap development, vendor oversight, one-on-one coaching for IT leaders, and support for executive technology decisions without the overhead of a full-time CIO."
+      },
+      {
+        "@type": "Service",
+        "name": "Cybersecurity & Risk",
+        "description": "Cybersecurity posture assessments, technology risk evaluations, cybersecurity governance oversight, and prioritized risk mitigation recommendations. Services help executives understand cyber exposure, identify security gaps, and align technology risk management with business priorities."
+      },
+      {
+        "@type": "Service",
+        "name": "AI Readiness & Data Governance",
+        "description": "Assessment of organizational AI readiness, data quality, data controls, information security, governance frameworks, and AI usage policies. Services help businesses establish the data and governance foundations needed for responsible AI adoption and effective technology decision-making."
+      },
+      {
+        "@type": "Service",
+        "name": "M&A Technology Diligence",
+        "description": "Buy-side and sell-side IT due diligence, technology risk assessments, post-acquisition IT planning, technology integration readiness, exit preparation, and development of IT roadmaps aligned with transaction objectives and private equity value creation plans."
+      },
+      {
+        "@type": "Service",
+        "name": "IT Strategy & Technology Roadmap Development",
+        "description": "Development of practical IT roadmaps that align systems, infrastructure, cybersecurity, staffing, governance, data, technology investments, and modernization initiatives with business strategy and measurable operational priorities."
+      },
+      {
+        "@type": "Service",
+        "name": "ERP & Enterprise Systems Advisory",
+        "description": "Independent guidance for ERP initiatives and enterprise systems modernization, including technology evaluations, solution selection, implementation oversight, vendor management, and alignment of system investments with business objectives."
+      },
+      {
+        "@type": "Service",
+        "name": "Managed Service Provider Evaluation",
+        "description": "Independent assessments of managed service providers, including MSP spending, service performance, contract terms, accountability, service-level alignment, and opportunities to improve the cost and effectiveness of outsourced IT support."
+      },
+      {
+        "@type": "Service",
+        "name": "Private Equity IT Value Creation",
+        "description": "Technology assessments, IT investment prioritization, post-close technology planning, IT risk management, and roadmap development to help private equity sponsors and portfolio companies align technology improvements with investment theses and enterprise value creation."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL® Strategic IT Assessment",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Growth Operators' proprietary nextLEVEL assessment framework evaluates technology, people, processes, and operational capabilities against best practices to identify gaps, prioritize improvements, and build actionable IT transformation and value creation roadmaps."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/strategic-it-advisory/#webpage"
+  }
+}
+</script>
