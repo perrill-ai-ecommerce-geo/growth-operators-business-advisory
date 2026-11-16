@@ -1,0 +1,150 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-buy-side-due-diligence-quality-of-earnings",
+  "name": "Buy-Side Due Diligence & Quality of Earnings",
+  "alternateName": [
+    "Buy-Side Financial Due Diligence",
+    "Buy-Side Quality of Earnings",
+    "Buy-Side QoE Services",
+    "Acquisition Due Diligence",
+    "Financial Due Diligence Services",
+    "M&A Due Diligence Advisory"
+  ],
+  "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/buy-side-due-diligence-quality-of-earnings/",
+  "serviceType": [
+    "Buy-Side Due Diligence",
+    "Buy-Side Quality of Earnings Analysis",
+    "Financial Due Diligence",
+    "M&A Transaction Advisory",
+    "Adjusted EBITDA Analysis",
+    "Net Working Capital Assessment",
+    "Acquisition Financial Modeling",
+    "Post-Acquisition Integration"
+  ],
+  "description": "Growth Operators provides hands-on buy-side due diligence and Quality of Earnings (QoE) advisory services for private equity firms, portfolio companies, corporate buyers, and middle-market investors. Services include financial due diligence, transaction-level Quality of Earnings analysis, adjusted EBITDA and net working capital assessments, financial modeling, acquisition risk evaluation, HR assessments, and post-close integration planning. Growth Operators uses a bottom-up approach to analyze financial transactions, uncover hidden liabilities, validate sustainable earnings, and generate reusable financial information for purchase accounting and opening balance sheets. Experienced CFO-level operators help buyers evaluate acquisition targets, improve deal confidence, and identify post-acquisition value creation opportunities.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Sponsors"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Corporate Buyers and Strategic Acquirers"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Investors"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Corporate Development Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Investment Firms and M&A Intermediaries"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "CEOs, CFOs, and Executive Leadership Teams"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Buy-Side Due Diligence & Quality of Earnings Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Financial Due Diligence",
+        "description": "Comprehensive evaluation of acquisition targets, including historical financial performance, profitability, revenue quality, expense trends, cash flow, financial reporting, and potential liabilities to identify risks and support informed investment decisions."
+      },
+      {
+        "@type": "Service",
+        "name": "Buy-Side Quality of Earnings Analysis",
+        "alternateName": "Buy-Side QoE",
+        "description": "Bottom-up, transaction-level Quality of Earnings analysis that evaluates sustainable earnings, revenue recognition, expense management, adjusted EBITDA, and non-recurring adjustments to provide buyers with a clearer understanding of a target company's financial performance."
+      },
+      {
+        "@type": "Service",
+        "name": "Financial Modeling and Analysis",
+        "description": "Development of acquisition financial models, forecasts, scenario analyses, valuation impact assessments, and financial performance projections to support deal evaluation, acquisition planning, and investment decisions."
+      },
+      {
+        "@type": "Service",
+        "name": "Post-Close Integration",
+        "description": "Hands-on post-acquisition integration support focused on aligning financial processes, accounting systems, reporting structures, operational priorities, and performance metrics to support business continuity, synergy realization, and enterprise value creation."
+      },
+      {
+        "@type": "Service",
+        "name": "HR Assessment",
+        "description": "Human resources due diligence evaluating organizational structure, leadership capabilities, employee compensation, benefits, workforce risks, regulatory compliance, talent retention, and cultural alignment to identify potential acquisition liabilities and integration challenges."
+      },
+      {
+        "@type": "Service",
+        "name": "Adjusted EBITDA and Earnings Sustainability Analysis",
+        "description": "Transaction-level analysis of reported earnings, recurring and non-recurring expenses, proposed EBITDA adjustments, and underlying profitability to help buyers evaluate sustainable business earnings."
+      },
+      {
+        "@type": "Service",
+        "name": "Net Working Capital Assessment",
+        "description": "Evaluation of working capital trends, accounts receivable, inventory, accounts payable, and balance sheet components to identify financial risks, assess normalized working capital, and support acquisition negotiations."
+      },
+      {
+        "@type": "Service",
+        "name": "Acquisition Risk and Hidden Liability Assessment",
+        "description": "Identification of financial inconsistencies, potential liabilities, operational weaknesses, reporting deficiencies, and other risks that could affect acquisition valuation, transaction structure, or post-close performance."
+      },
+      {
+        "@type": "Service",
+        "name": "Purchase Accounting and Opening Balance Sheet Preparation",
+        "description": "Organization and analysis of transaction-level financial data to support post-acquisition integration, purchase accounting processes, and opening balance sheet development."
+      },
+      {
+        "@type": "Service",
+        "name": "Operational Due Diligence and Integration Planning",
+        "description": "Assessment of operational processes, organizational capabilities, financial infrastructure, and integration requirements to identify improvement opportunities and support post-acquisition value creation planning."
+      },
+      {
+        "@type": "Service",
+        "name": "Transaction Advisory & Exit Planning",
+        "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/",
+        "description": "Broader transaction advisory services covering buy-side and sell-side due diligence, Quality of Earnings, exit readiness, corporate development, M&A execution, and post-acquisition integration."
+      },
+      {
+        "@type": "Service",
+        "name": "Finance & Accounting Advisory",
+        "url": "https://growthoperators.com/solutions/finance-accounting/",
+        "description": "Finance and accounting advisory services supporting financial reporting, accounting operations, financial controls, financial planning, forecasting, and operational finance transformation."
+      },
+      {
+        "@type": "Service",
+        "name": "Private Equity Operating Partner Expertise",
+        "url": "https://growthoperators.com/solutions/strategy-execution-advisory/operating-partner-expertise/",
+        "description": "Hands-on operational and transaction support for private equity sponsors and portfolio companies, including investment thesis execution, integration planning, operational improvements, and portfolio company value creation."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL® Value Creation Plan",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Growth Operators' proprietary operational assessment and transformation framework, helping organizations evaluate functional capabilities, identify operational gaps, and develop prioritized value creation roadmaps."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/buy-side-due-diligence-quality-of-earnings/#webpage"
+  }
+}
+</script>
