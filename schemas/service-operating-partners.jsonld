@@ -1,0 +1,135 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-operating-partner-expertise",
+  "name": "Private Equity Operating Partner Services",
+  "alternateName": [
+    "Operating Partner Expertise",
+    "On-Demand Operating Partner Support",
+    "Private Equity Operational Engineering",
+    "Portfolio Company Value Creation Services"
+  ],
+  "url": "https://growthoperators.com/solutions/strategy-execution-advisory/operating-partner-expertise/",
+  "serviceType": [
+    "Private Equity Operating Partner Services",
+    "Operational Engineering",
+    "Portfolio Company Value Creation",
+    "Private Equity Operational Support",
+    "M&A Integration and Execution",
+    "Strategy Execution Advisory"
+  ],
+  "description": "Growth Operators provides private equity operating partner services and hands-on operational engineering to help private equity firms and portfolio companies execute investment theses, improve performance, and create enterprise value. Experienced operators support the full investment lifecycle, including pre-close due diligence, Day 1 readiness, first 100-day planning, M&A integration, value creation execution, finance and HR transformation, fractional and interim leadership, portfolio performance reporting, and exit readiness. Services integrate Strategy & Execution, Finance & Accounting, Human Resources, Transaction Advisory, Strategic IT, and Decision Intelligence & AI expertise.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Operating Partners"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Sponsors"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Portfolio Company CEOs and Leadership Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Strategic Buyers and Corporate Development Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Investors and Business Owners"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Private Equity Operating Partner Services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Pre-Close Due Diligence & Day 1 Readiness",
+        "description": "Operational and financial due diligence, Quality of Earnings analysis, financial modeling, strategy assessments, preliminary value creation planning, transition services agreement planning, and Day 1 readiness support."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "First 100 Days & Post-Acquisition Integration",
+        "description": "Integration and Value Creation Office development, nextLEVEL operational assessments, 100-day execution planning, KPI development, integration governance, interim leadership deployment, and sponsor reporting."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Portfolio Company Transformation & Value Creation",
+        "description": "Hands-on operational transformation throughout the private equity hold period, including finance and HR transformation, process improvement, technology optimization, margin expansion initiatives, cash flow improvement, and portfolio performance management."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Sell-Side Preparation & Exit Readiness",
+        "description": "Financial statement preparation, sell-side Quality of Earnings support, financial data validation, data room preparation, management presentation support, exit strategy development, and transaction readiness."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Fractional & Interim Executive Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/",
+        "description": "Embedded fractional and interim CEOs, CFOs, CIOs, CHROs, controllers, finance leaders, HR executives, and transformation professionals who provide operational leadership and execution capacity for portfolio companies."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Finance & Accounting Transformation",
+        "url": "https://growthoperators.com/solutions/finance-accounting/",
+        "description": "Finance and accounting assessments, financial reporting improvements, cash flow visibility, accounting controls, process optimization, and transformation support to strengthen portfolio company financial performance."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Human Resources & Talent Intelligence Advisory",
+        "url": "https://growthoperators.com/solutions/human-resources/",
+        "description": "HR transformation, workforce integration, talent strategy, organizational effectiveness, leadership support, benefits alignment, and HR technology optimization."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Strategic IT & Technology Transformation",
+        "url": "https://growthoperators.com/solutions/strategic-it-advisory/",
+        "description": "Strategic IT assessments, technology modernization, systems planning, IT risk oversight, technology integration, and IT operational improvement for portfolio companies."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Decision Intelligence & AI Advisory",
+        "url": "https://growthoperators.com/solutions/decision-intelligence-ai-advisory/",
+        "description": "Decision intelligence, AI readiness assessments, data analytics, executive dashboards, performance visibility, and AI-enabled business decision support."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "nextLEVEL Value Creation Assessments",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Proprietary nextLEVEL assessment framework benchmarking Finance, HR, IT, and AI capabilities against best practices to identify operational gaps, prioritize improvements, and develop actionable value creation roadmaps."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Strategy Execution & Value Creation Office Support",
+        "url": "https://growthoperators.com/solutions/strategy-execution-advisory/",
+        "description": "Investment thesis execution, strategic initiative prioritization, value creation roadmaps, program governance, KPI dashboards, board reporting, and ongoing performance monitoring."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Transaction Advisory & M&A Integration",
+        "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/",
+        "description": "Transaction advisory, buy-side and sell-side due diligence, Quality of Earnings, acquisition integration, portfolio onboarding, and exit planning support throughout the investment lifecycle."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/strategy-execution-advisory/operating-partner-expertise/#webpage"
+  }
+}
+</script>
