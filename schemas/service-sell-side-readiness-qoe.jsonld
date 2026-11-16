@@ -1,0 +1,143 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-sell-side-readiness-quality-of-earnings",
+  "name": "Sell-Side Readiness & Quality of Earnings",
+  "alternateName": [
+    "Sell-Side Quality of Earnings",
+    "Sell-Side QoE Services",
+    "Sell-Side Due Diligence",
+    "Exit Readiness Advisory",
+    "Business Sale Preparation",
+    "Sell-Side Financial Due Diligence"
+  ],
+  "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/sell-side-readiness-quality-of-earnings/",
+  "serviceType": [
+    "Sell-Side Readiness",
+    "Sell-Side Quality of Earnings Analysis",
+    "Exit Readiness Advisory",
+    "Financial Due Diligence",
+    "Transaction Preparation",
+    "Financial Modeling and Valuation Support",
+    "M&A Transaction Advisory"
+  ],
+  "description": "Growth Operators provides hands-on sell-side readiness and Quality of Earnings (QoE) advisory services for middle-market businesses, private equity firms, portfolio companies, and privately owned organizations preparing for a sale or capital event. Services include historical financial analysis, financial statement preparation, sell-side Quality of Earnings reports, normalized EBITDA analysis, financial modeling, working capital optimization, buyer due diligence preparation, HR due diligence, and transaction support. Experienced CFO-level operators help sellers identify financial and operational risks, strengthen reporting and internal controls, demonstrate sustainable earnings, and prepare credible financial information to support valuation and transaction negotiations.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Sponsors"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Business Owners Preparing for an Exit"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "M&A Intermediaries and Investment Banks"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "CEOs, CFOs, and Executive Leadership Teams"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Sell-Side Readiness & Quality of Earnings Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Historical Financials & Preparation for Sale",
+        "description": "Review and organization of historical financial statements, identification of financial discrepancies, accounting adjustments, documentation preparation, and reporting improvements to present accurate, investor-ready financial information."
+      },
+      {
+        "@type": "Service",
+        "name": "Sell-Side Quality of Earnings Analysis",
+        "alternateName": "Sell-Side QoE",
+        "description": "Preparation of sell-side Quality of Earnings reports that evaluate sustainable earnings, normalize EBITDA, identify non-recurring expenses, assess financial risks, and highlight value drivers to support credible financial reporting and business valuation."
+      },
+      {
+        "@type": "Service",
+        "name": "Financial Modeling and Analysis",
+        "description": "Development of financial models, forecasts, scenario analyses, and valuation-related financial assessments to help sellers understand business performance, evaluate transaction scenarios, and support informed negotiations."
+      },
+      {
+        "@type": "Service",
+        "name": "Due Diligence & Deal Support",
+        "description": "Preparation for buyer financial and operational due diligence, including financial documentation, risk identification, data validation, buyer inquiry support, working capital analysis, and transaction-related financial assessments."
+      },
+      {
+        "@type": "Service",
+        "name": "HR Due Diligence, Documentation, and Data Availability",
+        "description": "Assessment and preparation of human resources documentation, employee-related financial obligations, compensation and benefits information, organizational risks, and labor compliance records for buyer due diligence."
+      },
+      {
+        "@type": "Service",
+        "name": "Normalized EBITDA Analysis",
+        "description": "Analysis of historical earnings to identify non-recurring, unusual, and discretionary expenses, document proposed adjustments, and develop a supportable representation of sustainable business earnings."
+      },
+      {
+        "@type": "Service",
+        "name": "Working Capital and Liquidity Assessment",
+        "description": "Evaluation of working capital trends, cash flow, balance sheet accounts, and potential transaction adjustments to identify risks and support working capital negotiations."
+      },
+      {
+        "@type": "Service",
+        "name": "Financial Reporting and Internal Controls Improvement",
+        "description": "Improvement of financial close processes, accounting reconciliations, management reporting, financial controls, and supporting documentation to strengthen financial transparency and readiness for buyer scrutiny."
+      },
+      {
+        "@type": "Service",
+        "name": "Exit Readiness and Transaction Risk Assessment",
+        "description": "Evaluation of financial, operational, accounting, and HR risks that could affect a business sale, with prioritized recommendations to address potential transaction obstacles before going to market."
+      },
+      {
+        "@type": "Service",
+        "name": "Buyer Due Diligence Response Support",
+        "description": "Hands-on assistance responding to buyer financial questions, validating supporting documentation, explaining Quality of Earnings adjustments, and addressing transaction-related financial findings."
+      },
+      {
+        "@type": "Service",
+        "name": "Transaction Advisory & Exit Planning",
+        "url": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/",
+        "description": "Comprehensive transaction advisory services supporting sell-side readiness, buy-side due diligence, Quality of Earnings, exit planning, M&A execution, integration, and corporate development."
+      },
+      {
+        "@type": "Service",
+        "name": "Finance & Accounting Advisory",
+        "url": "https://growthoperators.com/solutions/finance-accounting/",
+        "description": "Hands-on finance and accounting advisory services that strengthen financial reporting, accounting operations, internal controls, financial planning, cash flow management, and audit readiness."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL® Value Creation Plan",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Growth Operators' proprietary operational assessment and value creation framework, used to evaluate business capabilities, identify financial and operational gaps, and develop prioritized improvement roadmaps that support transaction readiness and enterprise value creation."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/transaction-advisory-exit-planning/sell-side-readiness-quality-of-earnings/#webpage"
+  }
+}
+</script>
