@@ -1,0 +1,143 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-hr-talent-intelligence-advisory",
+  "name": "HR & Talent Intelligence® Advisory",
+  "alternateName": [
+    "Talent Intelligence Advisory",
+    "HR Talent Intelligence Services",
+    "HR People Strategy Advisory",
+    "Leadership Readiness Assessment",
+    "Talent Strategy Advisory",
+    "Workforce and Organizational Intelligence"
+  ],
+  "url": "https://growthoperators.com/solutions/human-resources/hr-talent-intelligence-advisory/",
+  "serviceType": [
+    "Talent Intelligence Advisory",
+    "HR People Strategy",
+    "Leadership Readiness Assessment",
+    "Talent Strategy and Workforce Planning",
+    "Succession Planning",
+    "Organizational Effectiveness",
+    "AI-Driven HR Strategy"
+  ],
+  "description": "Growth Operators provides data-backed HR & Talent Intelligence Advisory services that help private equity firms, portfolio companies, and middle-market businesses assess leadership readiness, team dynamics, succession risk, and organizational capabilities. Using its Identify, Align, and Build framework, Growth Operators evaluates leadership strengths, decision quality, change readiness, employee engagement, and talent strategy to identify people-related execution risks. Experienced advisors combine assessment data, insights from more than 10,000 individual profiles, and operational expertise to develop board-ready leadership insights, 90-day action plans, and talent strategies aligned with business growth, transformation, and private equity value creation.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Operating Partners"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "CEOs and Executive Leadership Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Chief Human Resources Officers and HR Leaders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Preparing for Growth, Integration, Leadership Transitions, or Exit"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "HR & Talent Intelligence Advisory Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Leadership Readiness Assessments",
+        "description": "Data-backed evaluation of CEO, CFO, COO, CRO, CHRO, and functional leadership readiness, assessing strengths, potential risks, decision quality, and the ability to execute strategic business objectives."
+      },
+      {
+        "@type": "Service",
+        "name": "Talent Intelligence Identification",
+        "description": "Structured leadership assessments that identify natural strengths, behavioral tendencies, performance under pressure, leadership risks, and individual capabilities using assessment data and patterns informed by more than 10,000 individual profiles."
+      },
+      {
+        "@type": "Service",
+        "name": "Leadership Alignment and Role Fit",
+        "description": "Assessment of leadership strengths and role requirements to align executives and management teams with the demands of growth, turnaround, post-acquisition integration, operational transformation, and value creation plans."
+      },
+      {
+        "@type": "Service",
+        "name": "Leadership Team Development and Optimization",
+        "description": "Identification of complementary leadership strengths, organizational blind spots, high-potential talent, development priorities, redeployment opportunities, and external hiring needs."
+      },
+      {
+        "@type": "Service",
+        "name": "Talent Strategy and Employee Engagement",
+        "description": "Talent strategy assessments and employee engagement insights that evaluate leadership effectiveness, communication, management styles, team dynamics, and workforce alignment with organizational goals."
+      },
+      {
+        "@type": "Service",
+        "name": "AI-Driven HR Strategy",
+        "description": "Data-informed HR strategy that uses talent assessment insights, pattern recognition, and experienced human judgment to identify leadership trends, organizational risks, and workforce development priorities."
+      },
+      {
+        "@type": "Service",
+        "name": "Succession Planning and Leadership Risk Assessment",
+        "description": "Assessment of leadership bench strength, succession readiness, critical role coverage, leadership continuity, and talent-related risks that could affect organizational performance."
+      },
+      {
+        "@type": "Service",
+        "name": "Private Equity Talent Due Diligence",
+        "description": "Leadership and organizational assessments aligned with private equity investment theses, helping sponsors evaluate management team readiness, execution risks, leadership gaps, and organizational capabilities before and after acquisition."
+      },
+      {
+        "@type": "Service",
+        "name": "Post-Acquisition Leadership and Talent Alignment",
+        "description": "Talent Intelligence assessments supporting Day 1 readiness, post-close integration, leadership transitions, growth acceleration, and operational transformation within private equity portfolio companies."
+      },
+      {
+        "@type": "Service",
+        "name": "Board-Ready Talent Intelligence Reporting",
+        "description": "Executive-level leadership assessments, talent strategy insights, organizational risk analysis, and board-ready reporting that connect leadership capabilities with operational priorities and value creation plans."
+      },
+      {
+        "@type": "Service",
+        "name": "90-Day Talent Strategy Action Planning",
+        "description": "Development of actionable 90-day plans that translate leadership assessments into talent development priorities, succession actions, role alignment, and organizational improvement initiatives."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL® Talent Intelligence",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Integration of Talent Intelligence with Growth Operators' proprietary nextLEVEL framework to assess people, processes, and technology, identify leadership and operational gaps, and align talent decisions with business transformation and value creation priorities."
+      },
+      {
+        "@type": "Service",
+        "name": "Human Resources Advisory",
+        "url": "https://growthoperators.com/solutions/human-resources/",
+        "description": "Broader HR advisory and transformation services, including organizational effectiveness, employee engagement, leadership development, HR operations, workforce planning, and talent management."
+      },
+      {
+        "@type": "Service",
+        "name": "Fractional and Interim Human Resources Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-human-resources/",
+        "description": "Embedded fractional and interim CHRO and HR leadership services that help organizations implement workforce strategies, manage HR transformation, and execute talent-related improvement initiatives."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/human-resources/hr-talent-intelligence-advisory/#webpage"
+  }
+}
+</script>
