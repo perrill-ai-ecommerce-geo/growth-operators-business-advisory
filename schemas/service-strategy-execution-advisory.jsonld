@@ -1,0 +1,92 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-strategy-execution-advisory",
+  "name": "Strategy & Execution Advisory",
+  "url": "https://growthoperators.com/solutions/strategy-execution-advisory/",
+  "serviceType": "Strategy Execution Advisory, Business Strategy Implementation, Operational Transformation, and Value Creation Planning",
+  "description": "Growth Operators provides hands-on Strategy & Execution Advisory services for middle-market businesses, private equity-backed portfolio companies, and founder-led organizations. Services include strategic planning, strategy activation, value creation roadmaps, project management office (PMO) design, execution infrastructure, KPI dashboards, executive reporting, operational transformation, financial modeling, leadership alignment, and change management. Experienced operators work alongside leadership teams to translate strategic priorities into measurable business results, establish accountability, and build sustainable internal execution capabilities.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Founder-Led and Privately Owned Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Preparing for Sale or Investment"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Navigating Mergers, Acquisitions, or Leadership Transitions"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Strategy & Execution Advisory Services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Strategy Activation & Value Creation Planning",
+        "description": "Strategic priority alignment, initiative sizing and sequencing, value creation roadmaps, decision rights, and execution planning."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Execution Infrastructure & PMO Development",
+        "description": "Project management office design, execution governance, initiative charters, workstream management, operating cadences, and accountability frameworks."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "KPI Dashboards & Executive Reporting",
+        "description": "Performance measurement frameworks, executive dashboards, initiative tracking, financial planning integration, and reporting to improve strategic visibility."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Operational Transformation & Strategy Implementation",
+        "description": "Hands-on implementation of strategic initiatives, cross-functional coordination, operational process improvements, and transformation management."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Private Equity Value Creation & Post-Acquisition Execution",
+        "description": "Operational value creation planning, post-acquisition integration governance, 100-day priorities, financial modeling, and implementation support for private equity-backed companies."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Capability Building & Leadership Transition",
+        "description": "Development of standard operating procedures, playbooks, coaching models, reusable toolkits, and transition plans that enable internal teams to sustain improvements."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "nextLEVEL® Strategy & Execution",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Proprietary assessment framework evaluating people, processes, and technology to identify operational gaps, prioritize high-value initiatives, and create actionable strategy execution roadmaps."
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Fractional & Interim Strategy & Execution Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-strategy-execution/",
+        "description": "Experienced fractional and interim leaders providing embedded strategy execution, program leadership, accountability, and operational transformation support."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/strategy-execution-advisory/#webpage"
+  }
+}
+</script>
