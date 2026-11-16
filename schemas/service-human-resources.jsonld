@@ -1,0 +1,144 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://growthoperators.com/#service-human-resources-advisory",
+  "name": "Human Resources Advisory",
+  "alternateName": [
+    "HR Advisory Services",
+    "HR Consulting Services",
+    "Human Resources Consulting",
+    "HR Transformation Services",
+    "HR & Talent Intelligence Advisory"
+  ],
+  "url": "https://growthoperators.com/solutions/human-resources/",
+  "serviceType": [
+    "Human Resources Advisory",
+    "HR Transformation",
+    "Strategic HR Consulting",
+    "Talent Management and Workforce Planning",
+    "Organizational Effectiveness",
+    "Total Rewards and Employee Benefits Consulting",
+    "HR Compliance and HR Technology Advisory"
+  ],
+  "description": "Growth Operators provides hands-on human resources advisory and HR transformation services for middle-market businesses, private equity firms, portfolio companies, and privately owned organizations. Services include Total Rewards strategy, compensation and benefits planning, organizational effectiveness, employee engagement and retention, leadership development, succession planning, HR compliance, HRIS implementation, payroll optimization, recruiting, and talent management. Experienced HR operators and CHRO-level advisors help organizations strengthen workforce performance, improve HR operations, support mergers and acquisitions, and align people strategies with business objectives.",
+  "provider": {
+    "@id": "https://growthoperators.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "audience": [
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Middle-Market Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Private Equity Firms and Portfolio Companies"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Privately Owned and Founder-Led Businesses"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Chief Human Resources Officers and HR Leaders"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "CEOs and Executive Leadership Teams"
+    },
+    {
+      "@type": "BusinessAudience",
+      "audienceType": "Companies Navigating Growth, Mergers, Acquisitions, or Restructuring"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Human Resources Advisory Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "Total Rewards Strategy and Implementation",
+        "description": "Development and implementation of compensation and employee benefits strategies, market-based pay structures, incentive programs, and Total Rewards Statements to attract, retain, and reward employees."
+      },
+      {
+        "@type": "Service",
+        "name": "Organizational Effectiveness",
+        "description": "Organizational structure assessment, team alignment, performance management, workforce productivity improvement, and organizational design to support business growth and operational effectiveness."
+      },
+      {
+        "@type": "Service",
+        "name": "Employee Engagement and Retention",
+        "description": "Employee engagement assessments, workforce feedback collection, retention strategies, workplace culture improvement, and communication programs aligned with organizational objectives."
+      },
+      {
+        "@type": "Service",
+        "name": "Leadership, Talent Development and Succession Planning",
+        "description": "Executive coaching, leadership development, management training, mentorship programs, talent pipeline development, and succession planning to strengthen leadership capabilities and organizational continuity."
+      },
+      {
+        "@type": "Service",
+        "name": "HR Compliance",
+        "description": "Human resources compliance assessments, HR policy development, employment documentation, internal HR standards, regulatory compliance support, and HR audit readiness."
+      },
+      {
+        "@type": "Service",
+        "name": "HRIS Identification, Implementation and Optimization",
+        "description": "HR technology needs assessments, human resources information system selection, HRIS implementation, system configuration, process improvement, technology adoption, and HR system optimization."
+      },
+      {
+        "@type": "Service",
+        "name": "Payroll Advisory and Optimization",
+        "description": "Payroll process optimization, payroll administration improvements, payroll compliance support, tax withholding processes, and HR technology integration to improve accuracy and efficiency."
+      },
+      {
+        "@type": "Service",
+        "name": "Recruiting and Talent Acquisition",
+        "description": "Strategic recruiting, talent acquisition planning, candidate evaluation, hiring process optimization, and workforce development aligned with organizational goals."
+      },
+      {
+        "@type": "Service",
+        "name": "Private Equity Operating Partner HR Services",
+        "url": "https://growthoperators.com/solutions/strategy-execution-advisory/operating-partner-expertise/",
+        "description": "Hands-on HR advisory and transformation support for private equity sponsors and portfolio companies, including workforce assessments, HR process improvements, organizational alignment, post-acquisition integration, and value creation initiatives."
+      },
+      {
+        "@type": "Service",
+        "name": "HR and Talent Intelligence Advisory",
+        "url": "https://growthoperators.com/solutions/human-resources/hr-talent-intelligence-advisory/",
+        "description": "Data-backed leadership and workforce assessments that evaluate talent capabilities, leadership readiness, succession risks, organizational alignment, and people-related execution challenges to support strategic workforce decisions."
+      },
+      {
+        "@type": "Service",
+        "name": "Total Rewards Statements",
+        "url": "https://growthoperators.com/solutions/human-resources/total-rewards-statements/",
+        "description": "Development of customized Total Rewards Statements that communicate the combined value of employee compensation, benefits, incentives, and employer-provided rewards."
+      },
+      {
+        "@type": "Service",
+        "name": "Fractional and Interim Human Resources Leadership",
+        "url": "https://growthoperators.com/solutions/fractional-interim-services/fractional-interim-human-resources/",
+        "description": "Fractional and interim CHROs, HR executives, and experienced HR professionals providing embedded leadership, HR operations support, workforce strategy, compliance oversight, and transformation execution."
+      },
+      {
+        "@type": "Service",
+        "name": "M&A HR Due Diligence and Workforce Integration",
+        "description": "Pre-acquisition HR due diligence, organizational and cultural assessments, compensation alignment, employee benefits integration, workforce transition planning, and post-acquisition HR integration support."
+      },
+      {
+        "@type": "Service",
+        "name": "nextLEVEL HR Transformation",
+        "url": "https://growthoperators.com/nextlevel/",
+        "description": "Proprietary HR transformation assessment and value creation framework that evaluates human resources capabilities against best practices, identifies operational gaps, and develops prioritized improvement plans and actionable transformation roadmaps."
+      }
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://growthoperators.com/solutions/human-resources/#webpage"
+  }
+}
+</script>
